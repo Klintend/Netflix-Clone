@@ -1,0 +1,111 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+.banner-sec{
+  width: 100%;
+  min-height: 75vh;
+  background-image: url('../images/image 1.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.heads{
+ padding: 1em 1.5em 0 1.5em;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.nav-bar{
+ display: flex;
+ justify-content: space-between;
+ gap: 1.4em;
+ color: white;
+}
+
+.nav-land{
+ background-color: red;
+   color: white;
+   font-size: 0.9em;
+   display: inline-block;
+   padding: 5px 5px;
+   letter-spacing: 1px;
+   border: none;
+}
+
+.main-sec1{
+  color: white;
+  margin-top: 5.7em;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* gap: 4em; */
+}
+
+.hero-act1{
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.hero-text{
+ /* padding-left: 2.6em; */
+ font-size: 3.3em;
+ font-weight: 700;
+ width: 500px;
+ line-height: 70.4px;
+ align-self: center;
+ border: 1px solid blueviolet;
+}
+
+.hero-para1{
+ align-self: center;
+}
+
+.hero-para2{
+ align-self: center;
+}
+
+.hero-act2{
+ margin: 1em 0 0 21.5em;
+}
+
+.input-email{
+ padding: 1em;
+ width: 40%;
+}
+
+.hero-but{
+ border: none;
+ width: 15%;
+ margin-top: 0.3em;
+ background-color: rgb(240, 6, 6);
+}
+
+.inner-input{
+ border: none;
+ padding: 0.65em 0.65em;
+ background-color: rgb(240, 6, 6);
+ color: white;
+ font-size: 1.3em;
+}
+
+.but-sec2{
+ padding-top: 0.3em;
+}
+
+.main-sec2{
+ padding: 10px 195px;
+ background: black;
+ color: white;
+}
+
+.sec2-art1{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+}
