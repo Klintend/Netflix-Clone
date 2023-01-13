@@ -125,11 +125,15 @@
   color: white;
 }
 
+.main2-sec3{
+ padding-left: 8em;
+ /* border: 1px solid green; */
+}
+
 .sect-foot {
  display: flex;
  flex-direction: column;
  gap: 0.8em;
- /* border: 1px solid green; */
  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
  color: rgb(162, 160, 160);
 }
