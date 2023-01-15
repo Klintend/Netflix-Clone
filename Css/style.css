@@ -11,6 +11,11 @@
   background-position: center center;
 }
 
+main{
+  max-width: 1920px;
+  display: grid;
+}
+
 .heads{
  padding: 1em 1.5em 0 1.5em;
  display: flex;
@@ -40,9 +45,6 @@
   margin-top: 5.7em;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* gap: 4em; */
 }
 
 .hero-act1{
