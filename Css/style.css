@@ -5,7 +5,7 @@
 
 .banner-sec{
   width: 100%;
-  min-height: 75vh;
+  min-height: 100vh;
   background-image: url('../images/image 1.jpg');
   background-size: cover;
   background-position: center center;
@@ -60,7 +60,7 @@ main{
  width: 500px;
  line-height: 70.4px;
  align-self: center;
- border: 1px solid blueviolet;
+
 }
 
 .hero-para1{

@@ -80,11 +80,19 @@ input::placeholder{
  font-size: 0.7rem;
 }
 
-.input3{
+.anchor{
  color: white;
  background-color: rgb(239, 11, 11);
- border: none;
- margin-top: 1.2em;
+ margin-top: 0.6em;
+ padding: 6px;
+}
+
+.input3{
+border: none;
+margin-left: 4.5em;
+color: white;
+background-color: rgb(239, 11, 11);
+font-size: 1.1em;
 }
 
 .art2{
